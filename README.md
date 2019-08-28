@@ -10,8 +10,8 @@ wky233 的个人博客
 
 ### 最新
 
+* [Docker安装solo教程](https://www.wkyhky.site/articles/2019/08/22/1566483686173.html)
 * [我在 GitHub 上的开源项目](https://www.wkyhky.site/my-github-repos)
-* [世界，你好！](https://www.wkyhky.site/hello-solo)
 
 
 
