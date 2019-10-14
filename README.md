@@ -10,8 +10,12 @@ wky233 的个人博客
 
 ### 最新
 
+* [用Java数组实现栈结构](https://www.wkyhky.site/articles/2019/10/14/1571062869946.html)
+* [leetCode 495. 提莫攻击](https://www.wkyhky.site/articles/2019/10/14/1571061063379.html)
+* [leetCode 709. 转换成小写字母](https://www.wkyhky.site/articles/2019/10/14/1571057517072.html)
+* [JVM（二）垃圾回收方法](https://www.wkyhky.site/articles/2019/10/14/1571016544956.html)
 * [一周总结](https://www.wkyhky.site/articles/2019/10/13/1570958321562.html)
-* [JVM系列（一）自动内存管理机制](https://www.wkyhky.site/articles/2019/10/13/1570954774566.html)
+* [JVM（一）自动内存管理机制](https://www.wkyhky.site/articles/2019/10/13/1570954774566.html)
 * [一周总结](https://www.wkyhky.site/articles/2019/10/07/1570416073433.html)
 * [JavaWeb http请求特殊符号变空格的问题解决](https://www.wkyhky.site/articles/2019/10/04/1570174031051.html)
 * [MySQL导入sql文件报错 [Err] 1273 - Unknown collation: 'utf8mb4_0900_ai_ci'](https://www.wkyhky.site/articles/2019/10/02/1569986807956.html)
