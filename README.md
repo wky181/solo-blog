@@ -10,6 +10,7 @@ wky233 的个人博客
 
 ### 最新
 
+* [win10搭建FTP服务器，实现局域网内上传下载文件](https://www.wkyhky.site/articles/2019/10/16/1571213842260.html)
 * [用Java数组实现栈结构](https://www.wkyhky.site/articles/2019/10/14/1571062869946.html)
 * [leetCode 495. 提莫攻击](https://www.wkyhky.site/articles/2019/10/14/1571061063379.html)
 * [leetCode 709. 转换成小写字母](https://www.wkyhky.site/articles/2019/10/14/1571057517072.html)
