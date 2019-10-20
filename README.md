@@ -10,7 +10,8 @@ wky233 的个人博客
 
 ### 最新
 
-* [JVM垃圾收集器](https://www.wkyhky.site/articles/2019/10/18/1571407118488.html)
+* [一周总结](https://www.wkyhky.site/articles/2019/10/20/1571562753189.html)
+* [JVM（三）垃圾收集器](https://www.wkyhky.site/articles/2019/10/18/1571407118488.html)
 * [JVM指令手册](https://www.wkyhky.site/articles/2019/10/18/1571360706350.html)
 * [win10搭建FTP服务器，实现局域网内上传下载文件](https://www.wkyhky.site/articles/2019/10/16/1571213842260.html)
 * [用Java数组实现栈结构](https://www.wkyhky.site/articles/2019/10/14/1571062869946.html)
