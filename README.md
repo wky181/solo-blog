@@ -10,6 +10,7 @@ wky233 的个人博客
 
 ### 最新
 
+* [JVM (四) 堆内存模型及内存分配策略](https://www.wkyhky.site/articles/2019/10/21/1571622387012.html)
 * [一周总结](https://www.wkyhky.site/articles/2019/10/20/1571562753189.html)
 * [JVM（三）垃圾收集器](https://www.wkyhky.site/articles/2019/10/18/1571407118488.html)
 * [JVM指令手册](https://www.wkyhky.site/articles/2019/10/18/1571360706350.html)
