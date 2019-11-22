@@ -5,11 +5,12 @@ wky233 的个人博客
 <h4 align="center">记录精彩的程序人生</h4>
 <p align="center"><a title="wky233 的个人博客" target="_blank" href="https://github.com/wky181/solo-blog"><img src="https://img.shields.io/github/last-commit/wky181/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/wky181/solo-blog"><img src="https://img.shields.io/github/repo-size/wky181/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/wky181/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [linux-Git脱坑 fatal: 无法读取远程仓库。](https://www.wkyhky.site/articles/2019/11/21/1574329067692.html)
 * [Linux配置java环境变量（个人记录）](https://www.wkyhky.site/articles/2019/11/14/1573740627778.html)
 * [RocketMQ的安装与测试](https://www.wkyhky.site/articles/2019/11/12/1573560164325.html)
 * [Linux下创建桌面快捷方式](https://www.wkyhky.site/articles/2019/11/08/1573224562568.html)
@@ -29,7 +30,6 @@ wky233 的个人博客
 * [一周总结](https://www.wkyhky.site/articles/2019/10/07/1570416073433.html)
 * [JavaWeb http请求特殊符号变空格的问题解决](https://www.wkyhky.site/articles/2019/10/04/1570174031051.html)
 * [MySQL导入sql文件报错 [Err] 1273 - Unknown collation: 'utf8mb4_0900_ai_ci'](https://www.wkyhky.site/articles/2019/10/02/1569986807956.html)
-* [Docker学习（一）入门篇](https://www.wkyhky.site/articles/2019/09/30/1569815742047.html)
 
 ### 热门
 
@@ -37,6 +37,7 @@ wky233 的个人博客
 * [LeetCode 53. 最大子序和（java解法）](https://www.wkyhky.site/articles/2019/09/29/1569718984459.html)
 * [我在 GitHub 上的开源项目](https://www.wkyhky.site/my-github-repos)
 * [一周总结](https://www.wkyhky.site/articles/2019/09/29/1569751046632.html)
+* [Docker学习（一）入门篇](https://www.wkyhky.site/articles/2019/09/30/1569815742047.html)
 
 
 
